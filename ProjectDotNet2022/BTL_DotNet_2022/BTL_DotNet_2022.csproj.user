@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AccountInfoFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditAccountInfoFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCustomer\CartFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCustomer\HomeCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCustomer\MainCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCustomer\StoreInfoFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMaster\BookDetailFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMaster\BooksFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMaster\BookStatisticFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMaster\ManagermentFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMaster\IndexMasterFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMaster\MainMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMaster\OrdersFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMaster\RevenueStatisticFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
